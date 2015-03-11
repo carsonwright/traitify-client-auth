@@ -1,0 +1,15 @@
+{
+  "name": "traitify-assessment-generator",
+  "description": "Basic Application",
+  "author": "Carson Wright <carsonnwright@gmail.com>",
+  "dependencies": {
+    "coffee-script": ">= 1.9.1",
+    "gulp": ">= 3.8.11",
+    "lokijs": "~1.2.0",
+    "express": "~4.12.2",
+    "js-yaml": "~3.2.7",
+    "traitify": "~2.1.0",
+    "cors": "~2.5.3"
+  },
+  "engine": "node 0.4.1"
+}

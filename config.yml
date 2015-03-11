@@ -1,0 +1,9 @@
+default:
+  secret_key: "your secret key"
+  public_key: "your public key"
+  redirect_url: "http://localhost:8000/index.html"
+  traitify_host: "api-sandbox.traitify.com"
+  traitify_version: "v1"
+  traitify_deck: "career-deck"
+server:
+  port: 8080
